@@ -5,3 +5,4 @@ if __name__ == '__main__':
 
     get_new_offers()
     generate_report()
+    
