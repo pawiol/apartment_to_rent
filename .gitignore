@@ -1,0 +1,10 @@
+__pycache__/
+._DS_Store
+.DS_Store
+.idea
+apartment_db.db
+apartment_report.html
+old_files/
+gumtree/
+venv/
+tests.py
